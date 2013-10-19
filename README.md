@@ -8,6 +8,8 @@ Now there is.
 
 A chrome extension that looks at how you did against your Fitbit steps goal from the previous day, and then only lets you listen to the equivalent percentage of each song today.
 
-Only hit 70% of your goal yesterday? Well, we hope you haven't grown too accustomed to the ends of your favorites songs... because you won't hear them today. Maybe tomorrow you slacker.
+Only hit 70% of your goal yesterday? Well, we hope you haven't grown too accustomed to the ends of your favorites songs... because you won't hear them today because you won't hear them today (but you will get some "motivational" notifications). 
+
+Maybe tomorrow will be better, you slacker.
 
 *Currently supports Rdio, Pandora, Hype Machine (sort of) and Spotify's web player.*
