@@ -12,4 +12,4 @@ Only hit 70% of your goal yesterday? Well, we hope you haven't grown too accusto
 
 Maybe tomorrow will be better, you slacker.
 
-*Currently supports Rdio, Pandora, Hype Machine (sort of) and Spotify's web player.*
+*Currently supports Rdio, Pandora and Hype Machine (sort of).*
